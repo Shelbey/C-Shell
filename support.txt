@@ -1,0 +1,7 @@
+Output of the code:
+[hassaan@LUCIFER Ass-2]$ ./main1
+I am Hassaan��1�I��^H��H���PTL�V
+I am Hassaan��AWL�=
+ am Hassaan
+
+ Both Children of the parents can read the message written by the parent to the pipe.
